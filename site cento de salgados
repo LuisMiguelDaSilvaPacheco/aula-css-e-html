@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        
+        .cabecalho{
+
+            background-color: forestgreen;
+            text-align: center;
+
+        }
+
+        .cento{
+
+            text-align: center;
+
+        }
+
+        .link{
+
+            margin: 0 10px;
+
+        }
+
+        body{
+
+            background-image: url();
+
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <div class="cabecalho">
+
+   <h1><!-- Tag de abertura --> 
+        
+        Quantos salgadinhos vem em um cento?
+
+    </h1><!-- Tag de fechamento --> 
+    <p>
+
+        Algo entre 99 e 101
+
+    </p>
+
+    </div>
+
+    <div class="cento">
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwFBg4W_lEcGiwF11hiYhX19bp7TI882Qttw&s" alt="">
+
+    </div>
+
+    <div>
+
+        <h2>
+
+            Introdução
+
+        </h2>
+
+        <p>
+
+            Um cento de salgadinhos contém, por definição, 100 unidades de salgados. A palavra "cento" é uma medida que sempre indica a quantidade de 100 itens, sendo essa a resposta direta para quantos salgadinhos vêm em um cento, sem importar o tipo ou o tamanho, seja de festa, mini ou outro formato. 
+
+        </p>
+
+        <h3>
+
+            Detalhamento:
+
+        </h3>
+
+        <h4>
+
+            Definição:
+
+        </h4>
+
+        <p>
+
+            "Cento" é um termo de medida que corresponde a 100 unidades, aplicado a qualquer item, incluindo salgadinhos. 
+
+        </p>
+
+        <h4>
+
+             Pedido comum:
+
+        </h4>
+
+        <p>
+
+             Quando se pede "um cento de coxinhas", por exemplo, você está solicitando cem coxinhas. 
+
+        </p>
+
+        <h4>
+
+            Variações:
+
+        </h4>
+
+        <p>
+
+            Embora a quantidade de unidades seja fixa em 100, o tipo de salgadinho (mini, festa, etc.) pode variar, como exemplificado pelas ofertas de "100 Mini Salgadinhos" ou a variedade de opções que totalizam 100 unidades. 
+            Portanto, se você ouvir alguém falar em um "cento de salgados", a quantidade é sempre 100 unidades. 
+
+        </p>
+
+    </div>
+
+    <div class="link">
+
+        <h3>
+
+            Link super útil
+
+        </h3>
+
+        <a href="https://www.pudim.com.br/">
+            Site sobre pudim
+        </a>
+
+    </div>
+</body>
+</html>
